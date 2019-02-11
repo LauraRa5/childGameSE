@@ -9,5 +9,5 @@ Ist das letzte Level des Spiels erreicht wird die Raupe zu einem Schmetterling.<
 
 
 <p>Aktuelle Probleme:<br>
-- Flächen in einem Gebiet durch Code erzeugen<br>
-- Kollisionscode auf Flächen anpassen, aktuell zu komplex durch die Erstellung der Flächen mit Hilfe von path() und lineto()<br>
+- unsichtbare Gebiete anderer Level können kollidiert werden<br>
+- bei einer Kollision den Button für den Neustart bzw. das Neu-Zeichnen des aktuellen Level-Canvas<br>
