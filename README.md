@@ -12,4 +12,4 @@ Ist das letzte Level des Spiels erreicht wird die Raupe zu einem Schmetterling.<
 - unsichtbare Gebiete anderer Level können kollidiert werden<br>
 - bei alleiniger Berührung des Apfels wird das neue Level erreicht -> check if Raupe ebenfalls berührt wurde fehlt<br>
 - bei einer Kollision wird nur "aua" ausgegeben -> der Restart-Button bzw. das Neu-Zeichnen des aktuellen Level-Canvas fehlt<br>
-(- Level 1 wird warum auch immer ab und zu übersprungen<br>)
+(- Level 1 wird warum auch immer ab und zu übersprungen)<br>
