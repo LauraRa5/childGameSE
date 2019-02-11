@@ -10,5 +10,5 @@ Ist das letzte Level des Spiels erreicht wird die Raupe zu einem Schmetterling.<
 
 <p>Aktuelle Probleme:<br>
 - unsichtbare Gebiete anderer Level können kollidiert werden<br>
-- bei alleiniger Berührung des Apfels wird das neue Level erreicht -> check if Raupe ebenfalls berührt fehlt<br>
+- bei alleiniger Berührung des Apfels wird das neue Level erreicht -> check if Raupe ebenfalls berührt wurde fehlt<br>
 - bei einer Kollision den Button anzeigen lassen für den Neustart bzw. das Neu-Zeichnen des aktuellen Level-Canvas<br>
